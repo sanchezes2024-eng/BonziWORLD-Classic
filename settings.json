@@ -3,7 +3,7 @@
 		"public": {
 			"char_limit": 2500,
 			"name_limit": 25,
-			"godword": "skibidibopbopyesyes",
+			"godword": 1,
 			"runlevel": {
 				"godmode": 0,
 				"youtube": 0,
@@ -24,8 +24,8 @@
 				"name": 0,
 				"pope": 3
 			},
-			"room_max": 30,
-			"owner": "Monz",
+			"room_max": 15,
+			"owner": null,
 			"pitch": {
 				"max": 125,
 				"min": 15,
@@ -41,7 +41,7 @@
 		"private": {
 			"char_limit": 5000,
 			"name_limit": 25,
-			"godword": "skibidibopbopyesyes",
+			"godword": 1,
 			"runlevel": {
 				"godmode": 0,
 				"youtube": 0,
@@ -63,7 +63,7 @@
 				"pope": 3
 			},
 			"room_max": 30,
-			"owner": "Monz",
+			"owner": null,
 			"pitch": {
 				"max": 125,
 				"min": 15,
