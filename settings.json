@@ -25,7 +25,7 @@
 				"pope": 3
 			},
 			"room_max": 15,
-			"owner": null,
+			"owner": "monz",
 			"pitch": {
 				"max": 125,
 				"min": 15,
